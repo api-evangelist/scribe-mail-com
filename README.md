@@ -1,4 +1,4 @@
-# scribe-mail-com
+# Scribe Mail
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,149 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-scribe-mail-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://scribe-mail.com/
+Scribe Mail provides an email signature management platform that enables organizations to create, deploy, and maintain consistent email signatures across all employee communications. Founded in 2020 by Scribe SAS, the service offers centralized control, analytics, and AI‑assisted signature generation, ensuring brand compliance and measurable impact. The platform integrates with major email providers, supports dynamic variables, and includes security certifications and compliance features for enterprise use.
+
+**Areas:** Company · EmailSignature · SaaS · Enterprise · AI
+
+## Scribe Mail on APIs.io
+
+Everything profiled for Scribe Mail is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/scribe-mail-com/](https://apis.io/providers/scribe-mail-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (9)
+
+- [Scribe Mail Analytics API](https://apis.io/apis/scribe-mail-com/scribe-mail-com-analytics-api/) — The Analytics API from Scribe Mail — 5 operation(s) for analytics.
+- [Scribe Mail Anchors API](https://apis.io/apis/scribe-mail-com/scribe-mail-com-anchors-api/) — The Anchors API from Scribe Mail — 2 operation(s) for anchors.
+- [Scribe Mail Billing API](https://apis.io/apis/scribe-mail-com/scribe-mail-com-billing-api/) — The Billing API from Scribe Mail — 3 operation(s) for billing.
+- [Scribe Mail Campaigns API](https://apis.io/apis/scribe-mail-com/scribe-mail-com-campaigns-api/) — The Campaigns API from Scribe Mail — 3 operation(s) for campaigns.
+- [Scribe Mail Integration Entities API](https://apis.io/apis/scribe-mail-com/scribe-mail-com-integration-entities-api/) — The Integration Entities API from Scribe Mail — 2 operation(s) for integration entities.
+- [Scribe Mail Signature Templates API](https://apis.io/apis/scribe-mail-com/scribe-mail-com-signature-templates-api/) — The Signature Templates API from Scribe Mail — 3 operation(s) for signature templates.
+- [Scribe Mail Smart Fields API](https://apis.io/apis/scribe-mail-com/scribe-mail-com-smart-fields-api/) — The Smart Fields API from Scribe Mail — 2 operation(s) for smart fields.
+- [Scribe Mail Teammates API](https://apis.io/apis/scribe-mail-com/scribe-mail-com-teammates-api/) — The Teammates API from Scribe Mail — 2 operation(s) for teammates.
+- [Scribe Mail Workspace API](https://apis.io/apis/scribe-mail-com/scribe-mail-com-workspace-api/) — The Workspace API from Scribe Mail — 1 operation(s) for workspace.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Scribe Mail Com Webhooks](https://apis.io/asyncapis/scribe-mail-com/scribe-mail-com-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Scribe Mail Agentic Access](https://apis.io/agentic-access/scribe-mail-com/scribe-mail-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [api_v1_installation_collection_response](https://apis.io/schemas/scribe-mail-com/scribe-mail-com-api-v1-installation-collection-response/)
+- [api_v1_signature_template_collection_response](https://apis.io/schemas/scribe-mail-com/scribe-mail-com-api-v1-signature-template-collection-response/)
+- [api_v1_signature_template_response](https://apis.io/schemas/scribe-mail-com/scribe-mail-com-api-v1-signature-template-response/)
+- [api_v1_subscription_response](https://apis.io/schemas/scribe-mail-com/scribe-mail-com-api-v1-subscription-response/)
+- [api_v1_teammate_collection_response](https://apis.io/schemas/scribe-mail-com/scribe-mail-com-api-v1-teammate-collection-response/)
+- [api_v1_teammate_response](https://apis.io/schemas/scribe-mail-com/scribe-mail-com-api-v1-teammate-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Scribe Mail Com Context](https://apis.io/jsonld/scribe-mail-com/scribe-mail-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Scribe Mail API Rules](https://apis.io/rules/scribe-mail-com/scribe-mail-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Scribe Mail Authentication](https://apis.io/security/scribe-mail-com/scribe-mail-com-authentication/)
+- [Scribe Mail Domain Security](https://apis.io/security/scribe-mail-com/scribe-mail-com-domain-security/)
+- [Scribe Mail Trust Center](https://apis.io/security/scribe-mail-com/scribe-mail-com-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Scribe Mail Plans Pricing](https://apis.io/plans/scribe-mail-com/scribe-mail-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://scribe-mail.com/)
+- [Documentation](https://help.scribe-mail.com)
+- [Getting started](https://help.scribe-mail.com/api-reference/onboarding/what-the-web-onboarding-starts-a-signature-from)
+- [API reference](https://help.scribe-mail.com/api-reference/introduction)
+- [Pricing](https://www.scribe-mail.com/en-US/pricing)
+- [Support](https://help.scribe-mail.com/)
+- [Changelog](https://help.scribe-mail.com/en/product-updates)
+- [Blog](https://www.scribe-mail.com/en-US/blog)
+- [Security](https://security.scribe-mail.com/)
+- [Compliance](https://security.scribe-mail.com/)
+- [Terms of service](https://www.scribe-mail.com/en-US/terms)
+- [Privacy policy](https://www.scribe-mail.com/en-US/privacy)
+- [GitHub](https://github.com/scribemail)
+
+## API Evangelist rating
+
+**Kin Score 65.1** — strong · rubric 0.27.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 60.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 39.5 |
+| Developer ergonomics | 54.8 |
+| Access clarity | 79.5 |
+
+**Agent readiness 49.8** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 27.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/scribe-mail-com/](https://apis.io/providers/scribe-mail-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Scribe Mail: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/scribe-mail-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
